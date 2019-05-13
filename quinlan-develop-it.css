@@ -1,0 +1,26 @@
+/*
+* Cara Quinlan
+* Due date
+* semantic elements
+*/
+
+/* The universal selector */
+
+body{background-color:#ffe6e6;}
+
+header {text-align: center;} 
+header {background-color:#ff6666;}
+/*page color*/
+
+#boyfriendlaptop {float:right;}
+#laptopgirls {float:right;}
+/*id for pictures*/
+
+a:hover,a:focus {color: fuchsia;}
+a:hover,a:focus {font-size: 30px;}
+/*hover color and font sizefor links*/
+
+p,ul {font-family: "arial, futura, times new roman;"}
+h1 { font-family:cursive}
+h2 { font-family: cursive}
+/*fonts*/
